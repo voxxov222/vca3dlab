@@ -1,0 +1,6 @@
+{
+  "name": "VCA 3D Card Lab",
+  "description": "Interactive 3D collectible card studio with Three.js depth-map mesh relief, paintable depth maps, smart background cutout, dynamic holographic foil shaders, animated 3D energy effects, and VCA slab framing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
